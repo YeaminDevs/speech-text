@@ -1,7 +1,7 @@
 <p align="center">
-<h1 align='center'>Season 2 / Section 1 / HomeWork 214.4 Solution</h1>
+<h1 align='center'>Convert Speech to Text</h1>
 <h3 align='center'>
-   Visit my youtube channel <a href="https://www.youtube.com/@LearnWithYeamin">CodeCraft Arena</a>
+   Visit my youtube channel <a href="https://www.youtube.com/@LearnWithYeamin">Learn With Yeamin</a>
 </h3>
 </p>
 
